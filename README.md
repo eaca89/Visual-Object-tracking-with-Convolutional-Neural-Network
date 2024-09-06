@@ -1,4 +1,4 @@
-# Hierarchical Convolutional Features for Visual Tracking (ICCV 2015)
+# Hierarchical Convolutional Features for Visual Tracking
 
 ### Introduction
 
@@ -14,19 +14,6 @@ This is the research code for the paper:
 The correlation filters with convolutional features (CF2) is a state-of-the-art tracker that exploits rich feature hierarchy from deep convolutional neural networks for visual tracking. For more details, please visit our [Project page](https://sites.google.com/site/jbhuang0604/publications/cf2).
 
 <img src="https://dl.dropboxusercontent.com/u/2810224/Homepage/publications/2015/CF2_ICCV_2015/teaser.jpg" width="640" />
-
-
-### Citation
-
-If you find the code and dataset useful in your research, please consider citing:
-
-    @inproceedings{Ma-ICCV-2015,
-        title={Hierarchical Convolutional Features for Visual Tracking},
-        Author = {Ma, Chao and Huang, Jia-Bin and Yang, Xiaokang and Yang, Ming-Hsuan},
-        booktitle = {Proceedings of the IEEE International Conference on Computer Vision},
-        pages={},
-        Year = {2015}
-    }
 
 ### Contents
 |  Folder    | description |
